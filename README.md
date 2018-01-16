@@ -1,2 +1,2 @@
 # SudokuSolver
-Python code to solve a sudoku.
+Python code to solve a sudoku..
